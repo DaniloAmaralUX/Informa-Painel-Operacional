@@ -1,3 +1,6 @@
+# Lock files - use yarn.lock only (avoid npm/yarn conflict on Vercel)
+package-lock.json
+
 # Logs
 logs
 *.log
